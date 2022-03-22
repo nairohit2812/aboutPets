@@ -1,0 +1,33 @@
+This page contains all attributes that were used in AboutPets Webiste
+
+
+
+icon in page title
+<a href="https://www.flaticon.com/free-icons/turtle" title="turtle icons">Turtle icons created by amonrat rungreangfangsai - Flaticon</a> 
+
+icon inside navbar
+<a href="https://www.flaticon.com/free-icons/dog-carrier" title="dog carrier icons">Dog carrier icons created by Freepik - Flaticon</a>
+
+cv download icon
+<a href="https://www.flaticon.com/free-icons/cv" title="CV icons">CV icons created by Freepik - Flaticon</a>
+
+Images used :
+dog in iphone 
+tech crunch
+the next web
+business insider
+mashable
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Angela Yu Webdevelopment Course Udemy Resources</a>
+
+Icons used :
+paw
+linkedin
+email
+github
+link
+html
+css
+boorstrap
+<a href="https://fontawesome.com/">Font Awesome Webiste</a>
+
+
